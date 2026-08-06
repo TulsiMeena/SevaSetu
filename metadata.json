@@ -1,0 +1,6 @@
+{
+  "name": "SevaSetu",
+  "description": "एक बेहतरीन लोकल सर्विस मार्केटप्लेस ऐप जहाँ आप अपनी सर्विस बेच (Sell) सकते हैं और किसी भी सर्विस को ले (Buy) सकते हैं।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
